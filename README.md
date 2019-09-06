@@ -1,3 +1,3 @@
-# sortingAlgorithms
-This class provides provides the generic implementations of merge sort, quick sort, insertion sort and selection sort.
+# Sorting Algorithms
+Efficient implement of merge sort, quick sort, insertion sort and selection sort in Java.
   
